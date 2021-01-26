@@ -10,7 +10,6 @@
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/ipfans?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/ipfans?tab=repositories&q=&type=&language=cpp)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
