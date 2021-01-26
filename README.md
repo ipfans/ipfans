@@ -4,7 +4,7 @@
 
 - 📝 I regulary write articles on [https://www.4async.com](https://www.4async.com)
 
-[![Go](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/ipfans?tab=repositories&q=&type=&language=python)
+[![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://github.com/ipfans?tab=repositories&q=&type=&language=python)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/ipfans?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/ipfans?tab=repositories&q=&type=&language=javascript)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/ipfans?tab=repositories&q=&type=&language=c)
