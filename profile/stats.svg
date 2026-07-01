@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ipfans' GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 237, Total Commits  (last year) : 55, Total PRs: 65, Total Issues: 200, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 237, Total Commits  (last year) : 64, Total PRs: 67, Total Issues: 202, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 98.12868193577428;
+        stroke-dashoffset: 96.54524046785703;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >55</text>
+      >64</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >65</text>
+      >67</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >200</text>
+      >202</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >11</text>
+      >9</text>
     </g>
   </g>
     </svg>
